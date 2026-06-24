@@ -14,6 +14,7 @@ from tkinter import ttk, messagebox
 from practice_record import PracticeRecord, ArgumentOutOfRangeException
 
 
+
 class PracticeApp(tk.Tk):
     def __init__(self):
         super().__init__()
